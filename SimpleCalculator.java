@@ -1,5 +1,4 @@
-import java.util.Scanner;
-import java.util.Stack; 
+import java.util.*;
 public class SimpleCalculator {
 
     public static void main(String[] args) {
